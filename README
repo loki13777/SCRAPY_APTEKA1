@@ -1,0 +1,2 @@
+# команда запуска паука
+scrapy crawl apteka -o data.json
